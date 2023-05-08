@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import style from './FeedbackOptions.module.css';
+import style from './feedbackOptions.module.css';
 
 export const FeedbackOptions = ({ options, clickFeedback }) => (
   <div className={style.feedback}>

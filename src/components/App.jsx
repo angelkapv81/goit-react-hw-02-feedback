@@ -1,6 +1,6 @@
 import React from 'react';
-import FeedbackOptions from './FeedbackOptions/FeedbackOptions';
-import Statistics from './Statistics/Statistics';
+import FeedbackOptions from './feedbackOptions/feedbackOptions';
+import Statistics from './statistics/statistics';
 
 class App extends React.Component {
   state = {
